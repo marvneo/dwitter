@@ -25,6 +25,20 @@
     </div>
     </form>
     </div>
+    
+
+    <div class="content">
+        {% for dweet in profile.user.dweets.all %} 
+            <div class="box">
+                {{ dweet.body }}
+                <span class="is-small has_text-grey-light">
+                    ({{ dweet.created_at }})
+                </span>
+            </div>
+        {% endfor %}
+    </div>
+
+    
 
 </div>
 
@@ -73,6 +87,7 @@
     </div>
 
 </div>
+
 
 {% endblock content %}
 

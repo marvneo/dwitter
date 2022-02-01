@@ -1,4 +1,4 @@
-# dwitter
+# Moments
 ## Twitter clone built using Django and styling using Bulma
 
 ## Supports posting text posts, following and unfollowing of users

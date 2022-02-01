@@ -1,9 +1,4 @@
 # dwitter
-## Twitter clone built using Django and Bulma
+## Twitter clone built using Django and styling using Bulma
 
-## Supports text posts and following
-
-## Learned to:
-### Implement one-to-one and many-to-many relationships between Django models
-### Extend the Django user model with a custom Profile model
-### Customize the Django admin interface
+## Supports text posts and following of users

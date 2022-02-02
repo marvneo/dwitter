@@ -3,8 +3,9 @@
 
 ## Supports posting text posts, following and unfollowing of users
 
-![Screenshot from 2022-01-31 18-01-06](https://user-images.githubusercontent.com/60399677/151907518-61974074-c33f-4d57-90a5-62bc86f7e63a.png)
 
-![Screenshot from 2022-01-31 18-01-22](https://user-images.githubusercontent.com/60399677/151907532-9c30d10a-5919-407a-aa57-96368a40998b.png)
+![Screenshot from 2022-02-01 21-58-10](https://user-images.githubusercontent.com/60399677/152101023-f7e3533c-03fa-4ebe-b77c-f383e7e77fa3.png)
 
-![Screenshot from 2022-01-31 18-00-41](https://user-images.githubusercontent.com/60399677/151907542-388aab09-2854-4b48-ba76-a7b55e7b8f43.png)
+![Screenshot from 2022-02-01 21-57-25](https://user-images.githubusercontent.com/60399677/152101031-37c42cbf-6535-4558-b561-3a0c0861b32e.png)
+
+![Screenshot from 2022-02-01 21-57-47](https://user-images.githubusercontent.com/60399677/152101036-e2552c83-5874-4f0c-b07a-1067b39d0fe7.png)

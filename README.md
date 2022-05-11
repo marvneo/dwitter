@@ -1,7 +1,8 @@
 # Moments
-## Twitter clone built using Django and styling using Bulma
+This is a Twitter clone built using Django and styled using Bulma
 
-## Supports posting text posts, following and unfollowing of users
+## Functionality
+Supports posting text posts, following and unfollowing of users
 
 
 ![Screenshot from 2022-02-01 21-58-10](https://user-images.githubusercontent.com/60399677/152101023-f7e3533c-03fa-4ebe-b77c-f383e7e77fa3.png)

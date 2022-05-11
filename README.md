@@ -1,5 +1,5 @@
 # Moments
-This is a Twitter clone built using Django and styled using Bulma
+This is a Twitter clone built using Django and styled using Bulma. It uses a SQLite3 database.
 
 ## Functionality
 Supports posting text posts, following and unfollowing of users
